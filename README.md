@@ -5,7 +5,8 @@ TEAM NAME: SPARK PLUGS
 PROBLEM TITLE:Plug & Power: Revolutionizing the Road - A complete guide to Electric Vehicle Charging Station
 
 #TEAM MEMBERS
-MANIKANTA
-AYYANGAR
-GAYATRI
-RAMI REDDY
+.@MANIKANTA
+.@AYYANGAR
+.@GAYATRI
+.@RAMI REDDY
+
